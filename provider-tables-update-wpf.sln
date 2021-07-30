@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31512.422
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "provider-tables-update-wpf", "provider-tables-update-wpf\provider-tables-update-wpf.csproj", "{BAB2CB5D-2C64-4AC3-97C3-C192BB3FA7CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{66A8EA72-D0F8-41D9-8D7C-8AC1ED22E297}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAB2CB5D-2C64-4AC3-97C3-C192BB3FA7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB2CB5D-2C64-4AC3-97C3-C192BB3FA7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB2CB5D-2C64-4AC3-97C3-C192BB3FA7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB2CB5D-2C64-4AC3-97C3-C192BB3FA7CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B3FC0F4-256B-4DD0-B40F-5E26683D4F00}
+	EndGlobalSection
+EndGlobal
